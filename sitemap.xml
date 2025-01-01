@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://yuloxx.github.io/tech-knowledge/</loc>
     <lastmod>2024-12-31T09:19:35+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://yuloxx.github.io/tech-knowledge/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://yuloxx.github.io/tech-knowledge/tags/</loc>
   </url>
 </urlset>
